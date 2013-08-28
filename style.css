@@ -1,0 +1,27 @@
+body {
+	height: 100%;
+	margin:0;
+	padding: 0;
+}
+
+#map_canvas{
+	width:100%; 
+	height:100%;
+}
+#note{
+ 	position: absolute;
+	font-family:'Monda';
+	font-size: .6em;
+	text-align: center;
+	bottom:2.5%;
+	width:50%;
+	left:25%;
+	margin:0 auto;
+	padding:4px;
+	background-color:#F0F0F0;
+	border:5px solid #000000;
+	color:red;
+}
+#distance{
+	font-size:2em;
+}
